@@ -1,0 +1,1763 @@
+{
+    "Total_cost": 0,
+    "Truck_1": {
+        "Total_cost": "2664.56",
+        "Monday": {
+            "Total_time_driving": 3.41,
+            "Total_distance": 341,
+            "Total_cost": "300.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Tilbury",
+                "Distance": 313,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_time_driving": 3.41,
+            "Total_distance": 341,
+            "Total_cost": "300.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Mississauga",
+                "Distance": 28,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 3.41,
+            "Total_distance": 341,
+            "Total_cost": "300.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Tilbury",
+                "Distance": 313,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Thursday": {
+            "Total_time_driving": 4.16,
+            "Total_distance": 416,
+            "Total_cost": "366.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Tilbury",
+                "Distance": 208,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 4.16,
+            "Total_distance": 416,
+            "Total_cost": "366.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Tilbury",
+                "Distance": 208,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 4.16,
+            "Total_distance": 416,
+            "Total_cost": "366.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Tilbury",
+                "Distance": 208,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Sunday": {
+            "Total_time_driving": 4.16,
+            "Total_distance": 416,
+            "Total_cost": "366.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Tilbury",
+                "Distance": 208,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_2": {
+        "Total_cost": "2466.56",
+        "Monday": {
+            "Total_time_driving": 3.41,
+            "Total_distance": 341,
+            "Total_cost": "300.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Tilbury",
+                "Distance": 313,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_time_driving": 3.41,
+            "Total_distance": 341,
+            "Total_cost": "300.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Mississauga",
+                "Distance": 28,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 3.41,
+            "Total_distance": 341,
+            "Total_cost": "300.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Tilbury",
+                "Distance": 313,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Thursday": {
+            "Total_time_driving": 4.16,
+            "Total_distance": 416,
+            "Total_cost": "366.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Tilbury",
+                "Distance": 208,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 3.41,
+            "Total_distance": 341,
+            "Total_cost": "300.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Mississauga",
+                "Distance": 28,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 3.41,
+            "Total_distance": 341,
+            "Total_cost": "300.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Tilbury",
+                "Distance": 313,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Sunday": {
+            "Total_time_driving": 3.41,
+            "Total_distance": 341,
+            "Total_cost": "300.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Mississauga",
+                "Distance": 28,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_3": {
+        "Total_cost": "3906.24",
+        "Monday": {
+            "Total_time_driving": 3.41,
+            "Total_distance": 341,
+            "Total_cost": "300.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Tilbury",
+                "Distance": 313,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_time_driving": 7.5,
+            "Total_distance": 750,
+            "Total_cost": "660.00",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Cornwall",
+                "Distance": 437,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 7.5,
+            "Total_distance": 750,
+            "Total_cost": "660.00",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Tilbury",
+                "Distance": 313,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Thursday": {
+            "Total_time_driving": 4.16,
+            "Total_distance": 416,
+            "Total_cost": "366.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Tilbury",
+                "Distance": 208,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 7.5,
+            "Total_distance": 750,
+            "Total_cost": "660.00",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Cornwall",
+                "Distance": 437,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 7.5,
+            "Total_distance": 750,
+            "Total_cost": "660.00",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Tilbury",
+                "Distance": 313,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Sunday": {
+            "Total_time_driving": 3.41,
+            "Total_distance": 341,
+            "Total_cost": "300.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Mississauga",
+                "Distance": 28,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_4": {
+        "Total_cost": "1959.68",
+        "Monday": {
+            "Total_time_driving": 0.56,
+            "Total_distance": 56,
+            "Total_cost": "49.28",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Mississauga",
+                "Distance": 28,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_time_driving": 3.97,
+            "Total_distance": 397,
+            "Total_cost": "349.36",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Windsor",
+                "Distance": 369,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 3.97,
+            "Total_distance": 397,
+            "Total_cost": "349.36",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Mississauga",
+                "Distance": 28,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Thursday": {
+            "Total_time_driving": 0.56,
+            "Total_distance": 56,
+            "Total_cost": "49.28",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Mississauga",
+                "Distance": 28,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 2.2,
+            "Total_distance": 220,
+            "Total_cost": "193.60",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "London",
+                "Distance": 192,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 3.63,
+            "Total_distance": 363,
+            "Total_cost": "319.44",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Windsor",
+                "Distance": 263,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Sunday": {
+            "Total_time_driving": 3.97,
+            "Total_distance": 397,
+            "Total_cost": "349.36",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Mississauga",
+                "Distance": 28,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_5": {
+        "Total_cost": "2885.44",
+        "Monday": {
+            "Total_time_driving": 0.56,
+            "Total_distance": 56,
+            "Total_cost": "49.28",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Mississauga",
+                "Distance": 28,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_time_driving": 3.97,
+            "Total_distance": 397,
+            "Total_cost": "349.36",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Windsor",
+                "Distance": 369,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 8.06,
+            "Total_distance": 806,
+            "Total_cost": "709.28",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Cornwall",
+                "Distance": 437,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Thursday": {
+            "Total_time_driving": 4.65,
+            "Total_distance": 465,
+            "Total_cost": "409.20",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Mississauga",
+                "Distance": 28,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 3.97,
+            "Total_distance": 397,
+            "Total_cost": "349.36",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Windsor",
+                "Distance": 369,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 4.97,
+            "Total_distance": 497,
+            "Total_cost": "437.36",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Niagara_Falls",
+                "Distance": 128,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Sunday": {
+            "Total_time_driving": 3.2,
+            "Total_distance": 320,
+            "Total_cost": "281.60",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "London",
+                "Distance": 192,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_6": {
+        "Total_cost": "2908.32",
+        "Monday": {
+            "Total_time_driving": 4.65,
+            "Total_distance": 465,
+            "Total_cost": "409.20",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Cornwall",
+                "Distance": 437,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_time_driving": 8.06,
+            "Total_distance": 806,
+            "Total_cost": "709.28",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Windsor",
+                "Distance": 369,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 3.63,
+            "Total_distance": 363,
+            "Total_cost": "319.44",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "London",
+                "Distance": 100,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Thursday": {
+            "Total_time_driving": 2.0,
+            "Total_distance": 200,
+            "Total_cost": "176.00",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "London",
+                "Distance": 100,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 3.63,
+            "Total_distance": 363,
+            "Total_cost": "319.44",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Windsor",
+                "Distance": 263,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 4.65,
+            "Total_distance": 465,
+            "Total_cost": "409.20",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Barrie",
+                "Distance": 202,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Sunday": {
+            "Total_time_driving": 3.02,
+            "Total_distance": 302,
+            "Total_cost": "265.76",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "London",
+                "Distance": 100,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_7": {
+        "Total_cost": "2508.80",
+        "Monday": {
+            "Total_time_driving": 2.2,
+            "Total_distance": 220,
+            "Total_cost": "193.60",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "London",
+                "Distance": 192,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_time_driving": 3.2,
+            "Total_distance": 320,
+            "Total_cost": "281.60",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Niagara_Falls",
+                "Distance": 128,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 3.2,
+            "Total_distance": 320,
+            "Total_cost": "281.60",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "London",
+                "Distance": 192,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Thursday": {
+            "Total_time_driving": 2.0,
+            "Total_distance": 200,
+            "Total_cost": "176.00",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "London",
+                "Distance": 100,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 3.63,
+            "Total_distance": 363,
+            "Total_cost": "319.44",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Windsor",
+                "Distance": 263,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 6.32,
+            "Total_distance": 632,
+            "Total_cost": "556.16",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Kingston",
+                "Distance": 263,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Sunday": {
+            "Total_time_driving": 4.55,
+            "Total_distance": 455,
+            "Total_cost": "400.40",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "London",
+                "Distance": 192,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_8": {
+        "Total_cost": "3260.32",
+        "Monday": {
+            "Total_time_driving": 3.97,
+            "Total_distance": 397,
+            "Total_cost": "349.36",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Windsor",
+                "Distance": 369,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_time_driving": 4.97,
+            "Total_distance": 497,
+            "Total_cost": "437.36",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Niagara_Falls",
+                "Distance": 128,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 4.97,
+            "Total_distance": 497,
+            "Total_cost": "437.36",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Windsor",
+                "Distance": 369,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Thursday": {
+            "Total_time_driving": 5.26,
+            "Total_distance": 526,
+            "Total_cost": "462.88",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Windsor",
+                "Distance": 263,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 4.97,
+            "Total_distance": 497,
+            "Total_cost": "437.36",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Niagara_Falls",
+                "Distance": 128,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 3.61,
+            "Total_distance": 361,
+            "Total_cost": "317.68",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Sunday": {
+            "Total_time_driving": 5.89,
+            "Total_distance": 589,
+            "Total_cost": "518.32",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Windsor",
+                "Distance": 263,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_9": {
+        "Total_cost": "2528.16",
+        "Monday": {
+            "Total_time_driving": 1.56,
+            "Total_distance": 156,
+            "Total_cost": "137.28",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Niagara_Falls",
+                "Distance": 128,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_time_driving": 2.4,
+            "Total_distance": 240,
+            "Total_cost": "211.20",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Barrie",
+                "Distance": 112,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 2.4,
+            "Total_distance": 240,
+            "Total_cost": "211.20",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Niagara_Falls",
+                "Distance": 128,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Thursday": {
+            "Total_time_driving": 4.97,
+            "Total_distance": 497,
+            "Total_cost": "437.36",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Windsor",
+                "Distance": 369,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 4.65,
+            "Total_distance": 465,
+            "Total_cost": "409.20",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Barrie",
+                "Distance": 202,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 3.45,
+            "Total_distance": 345,
+            "Total_cost": "303.60",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Sunday": {
+            "Total_time_driving": 5.89,
+            "Total_distance": 589,
+            "Total_cost": "518.32",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Windsor",
+                "Distance": 263,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_10": {
+        "Total_cost": "2835.28",
+        "Monday": {
+            "Total_time_driving": 1.4,
+            "Total_distance": 140,
+            "Total_cost": "123.20",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Barrie",
+                "Distance": 112,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_time_driving": 3.75,
+            "Total_distance": 375,
+            "Total_cost": "330.00",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Kingston",
+                "Distance": 263,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 3.87,
+            "Total_distance": 387,
+            "Total_cost": "340.56",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Picton",
+                "End_destination": "Huntsville",
+                "Distance": 303,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Thursday": {
+            "Total_time_driving": 3.45,
+            "Total_distance": 345,
+            "Total_cost": "303.60",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Barrie",
+                "Distance": 112,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 3.75,
+            "Total_distance": 375,
+            "Total_cost": "330.00",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Kingston",
+                "Distance": 263,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 5.46,
+            "Total_distance": 546,
+            "Total_cost": "480.48",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Picton",
+                "End_destination": "North_Bay",
+                "Distance": 462,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Sunday": {
+            "Total_time_driving": 7.13,
+            "Total_distance": 713,
+            "Total_cost": "627.44",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Windsor",
+                "Distance": 263,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_11": {
+        "Total_cost": "2444.56",
+        "Monday": {
+            "Total_time_driving": 2.91,
+            "Total_distance": 291,
+            "Total_cost": "256.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Kingston",
+                "Distance": 263,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_time_driving": 3.87,
+            "Total_distance": 387,
+            "Total_cost": "340.56",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Picton",
+                "End_destination": "Huntsville",
+                "Distance": 303,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 4.66,
+            "Total_distance": 466,
+            "Total_cost": "410.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Thursday": {
+            "Total_time_driving": 4.66,
+            "Total_distance": 466,
+            "Total_cost": "410.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 4.66,
+            "Total_distance": 466,
+            "Total_cost": "410.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 2.33,
+            "Total_distance": 233,
+            "Total_cost": "205.04"
+        },
+        "Sunday": {
+            "Total_time_driving": 1.28,
+            "Total_distance": 128,
+            "Total_cost": "112.64",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Niagara_Falls",
+                "Distance": 128,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_12": {
+        "Total_cost": "2414.64",
+        "Monday": {
+            "Total_time_driving": 2.61,
+            "Total_distance": 261,
+            "Total_cost": "229.68",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_time_driving": 4.66,
+            "Total_distance": 466,
+            "Total_cost": "410.08",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 2.33,
+            "Total_distance": 233,
+            "Total_cost": "205.04"
+        },
+        "Thursday": {
+            "Total_time_driving": 2.33,
+            "Total_distance": 233,
+            "Total_cost": "205.04",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 5.9,
+            "Total_distance": 590,
+            "Total_cost": "519.20",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16"
+        },
+        "Sunday": {
+            "Total_time_driving": 2.63,
+            "Total_distance": 263,
+            "Total_cost": "231.44",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Kingston",
+                "Distance": 263,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_13": {
+        "Total_cost": "2824.72",
+        "Monday": {
+            "Total_time_driving": 3.85,
+            "Total_distance": 385,
+            "Total_cost": "338.80",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_time_driving": 7.14,
+            "Total_distance": 714,
+            "Total_cost": "628.32",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16"
+        },
+        "Thursday": {
+            "Total_time_driving": 2.33,
+            "Total_distance": 233,
+            "Total_cost": "205.04",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 5.9,
+            "Total_distance": 590,
+            "Total_cost": "519.20",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16"
+        },
+        "Sunday": {
+            "Total_time_driving": 2.33,
+            "Total_distance": 233,
+            "Total_cost": "205.04",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_14": {
+        "Total_cost": "2414.64",
+        "Monday": {
+            "Total_time_driving": 0.28,
+            "Total_distance": 28,
+            "Total_cost": "24.64"
+        },
+        "Tuesday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16"
+        },
+        "Thursday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 7.14,
+            "Total_distance": 714,
+            "Total_cost": "628.32",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16"
+        },
+        "Sunday": {
+            "Total_time_driving": 2.33,
+            "Total_distance": 233,
+            "Total_cost": "205.04",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_15": {
+        "Total_cost": "2523.76",
+        "Monday": {
+            "Total_time_driving": 0.28,
+            "Total_distance": 28,
+            "Total_cost": "24.64"
+        },
+        "Tuesday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16"
+        },
+        "Thursday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 7.14,
+            "Total_distance": 714,
+            "Total_cost": "628.32",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16"
+        },
+        "Sunday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_16": {
+        "Total_cost": "2523.76",
+        "Monday": {
+            "Total_time_driving": 0.28,
+            "Total_distance": 28,
+            "Total_cost": "24.64"
+        },
+        "Tuesday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16"
+        },
+        "Thursday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Friday": {
+            "Total_time_driving": 7.14,
+            "Total_distance": 714,
+            "Total_cost": "628.32",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Saturday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16"
+        },
+        "Sunday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_17": {
+        "Total_cost": "1267.12",
+        "Monday": {
+            "Total_time_driving": 0.28,
+            "Total_distance": 28,
+            "Total_cost": "24.64"
+        },
+        "Tuesday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        },
+        "Wednesday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16"
+        },
+        "Thursday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Friday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Saturday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Sunday": {
+            "Total_time_driving": 3.57,
+            "Total_distance": 357,
+            "Total_cost": "314.16",
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "drop_off",
+                "Start_quantity": 1,
+                "End_quantity": 0
+            }
+        }
+    },
+    "Truck_18": {
+        "Total_cost": "324.64",
+        "Monday": {
+            "Total_time_driving": 0.28,
+            "Total_distance": 28,
+            "Total_cost": "24.64"
+        },
+        "Tuesday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Wednesday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Thursday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Friday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Saturday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Sunday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        }
+    },
+    "Truck_19": {
+        "Total_cost": "324.64",
+        "Monday": {
+            "Total_time_driving": 0.28,
+            "Total_distance": 28,
+            "Total_cost": "24.64"
+        },
+        "Tuesday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Wednesday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Thursday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Friday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Saturday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Sunday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        }
+    },
+    "Truck_20": {
+        "Total_cost": "324.64",
+        "Monday": {
+            "Total_time_driving": 0.28,
+            "Total_distance": 28,
+            "Total_cost": "24.64"
+        },
+        "Tuesday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Wednesday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Thursday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Friday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Saturday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        },
+        "Sunday": {
+            "Total_time_driving": 0.0,
+            "Total_distance": 0,
+            "Total_cost": "0.00"
+        }
+    }
+}

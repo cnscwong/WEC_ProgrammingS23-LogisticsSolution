@@ -1,0 +1,102 @@
+{
+  "Tilbury": {
+    "Total": 14,
+    "Monday": 3,
+    "Tuesday": 0,
+    "Wednesday": 3,
+    "Thursday": 3,
+    "Friday": 1,
+    "Saturday": 3,
+    "Sunday": 1
+  },
+  "Mississauga": {
+    "Total": 11,
+    "Monday": 2,
+    "Tuesday": 2,
+    "Wednesday": 1,
+    "Thursday": 2,
+    "Friday": 1,
+    "Saturday": 0,
+    "Sunday": 3
+  },
+  "Cornwall": {
+    "Total": 4,
+    "Monday": 1,
+    "Tuesday": 1,
+    "Wednesday": 1,
+    "Thursday": 0,
+    "Friday": 1,
+    "Saturday": 0,
+    "Sunday": 0
+  },
+  "London": {
+    "Total": 9,
+    "Monday": 1,
+    "Tuesday": 0,
+    "Wednesday": 2,
+    "Thursday": 2,
+    "Friday": 1,
+    "Saturday": 0,
+    "Sunday": 3
+  },
+  "Windsor": {
+    "Total": 14,
+    "Monday": 1,
+    "Tuesday": 3,
+    "Wednesday": 1,
+    "Thursday": 2,
+    "Friday": 3,
+    "Saturday": 1,
+    "Sunday": 3
+  },
+  "Niagara_Falls": {
+    "Total": 7,
+    "Monday": 1,
+    "Tuesday": 2,
+    "Wednesday": 1,
+    "Thursday": 0,
+    "Friday": 1,
+    "Saturday": 1,
+    "Sunday": 1
+  },
+  "Barrie": {
+    "Total": 5,
+    "Monday": 1,
+    "Tuesday": 1,
+    "Wednesday": 0,
+    "Thursday": 1,
+    "Friday": 1,
+    "Saturday": 1,
+    "Sunday": 0
+  },
+  "Kingston": {
+    "Total": 5,
+    "Monday": 1,
+    "Tuesday": 1,
+    "Wednesday": 0,
+    "Thursday": 0,
+    "Friday": 1,
+    "Saturday": 1,
+    "Sunday": 1
+  },
+  "Huntsville": {
+    "Total": 13,
+    "Monday": 1,
+    "Tuesday": 2,
+    "Wednesday": 2,
+    "Thursday": 3,
+    "Friday": 1,
+    "Saturday": 2,
+    "Sunday": 2
+  },
+  "North_Bay": {
+    "Total": 18,
+    "Monday": 1,
+    "Tuesday": 5,
+    "Wednesday": 0,
+    "Thursday": 3,
+    "Friday": 5,
+    "Saturday": 1,
+    "Sunday": 3
+  }
+}
